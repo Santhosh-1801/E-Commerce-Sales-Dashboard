@@ -7,7 +7,7 @@
 3.  Connecting Power BI to MS SQL DB 
 4.  Data Cleaning 
 5.  Data Processing 
-6.  Data Modelling 
+6.  Data Modeling 
 7.  Creating Date Table 
 8.  Data Visualization 
 9.  Creating Dashboard 
